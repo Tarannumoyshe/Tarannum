@@ -1,0 +1,23 @@
+
+.header-p{
+    color:blue; 
+    margin-top: 50px;
+    font-size: 30px;
+}
+.header-h1{
+    font-size:50px; 
+    font-weight: bolder;
+}
+.mycard:hover{
+    background-color: rgb(218, 233, 81);
+    color: black;
+}
+
+.mystyle{
+    border-color: #ffffff; background-color: rgb(176, 241, 217);
+}
+
+.mystyle:hover{
+    border-color: #ffffff; background-color: rgb(218, 233, 81);
+    color:black
+}
